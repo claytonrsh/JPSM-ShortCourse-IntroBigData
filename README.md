@@ -12,10 +12,12 @@ Notebooks adapted from The [Coleridge Initiative training program](https://coler
 2. Jupyter notebooks used in examples:
   + Web-scraping.ipynb
   + APIs.ipynb
+  + Record linkage
   + Text_Analysis.ipynb
 3. PDF versions of notebooks:
   + Web-scraping.pdf
   + APIs.pdf
+  + Record Linkage
   + Text_Analysis.pdf
 4. data folder: sample input data for notebooks
 5. 03-images: accompanying images for notebook explanations
